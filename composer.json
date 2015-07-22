@@ -1,0 +1,16 @@
+{
+    "name": "n1n7axiii/laravel-blog",
+    "description": "Small blog system for laravel.",
+    "type": "laravel",
+    "require": {
+        "intervention/image": "2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "n1n7axiii",
+            "email": "ninja_xiii@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
